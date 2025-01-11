@@ -1,2 +1,1 @@
-Hello, Hexlet!
-pravila dlya 
+Hello, Hexlet! How are you?
